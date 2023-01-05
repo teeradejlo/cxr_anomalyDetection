@@ -1,0 +1,4 @@
+input/
+models/vinbigdata/
+models/yolov5/
+.DS_Store
